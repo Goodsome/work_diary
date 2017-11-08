@@ -34,3 +34,5 @@ Keras：数据集mnist、例子mnist_mlp.py
 python：返回函数、匿名函数lambda、装饰器
 
 deeplearning入门论文一大堆：https://github.com/Goodsome/Deep-Learning-Papers-Reading-Roadmap
+
+git: 版本库 远程库GitHub
