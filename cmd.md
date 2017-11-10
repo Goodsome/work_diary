@@ -8,7 +8,7 @@
 ### 连接	
 
 	sudo vpn-connect -c  				# 连接vpn 第一次
-	sudo vpn-connect 					# 连接 必须要以root身份运行
+	sudo vpn-connect 				    # 连接 必须要以root身份运行
 	sudo vpn-connect -d 				# 断开
 
 ## 开发环境相关
