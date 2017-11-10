@@ -7,29 +7,29 @@
 
 ### 连接	
 
-	sudo vpn-connect -c  				# 连接vpn 第一次
-	sudo vpn-connect 				    # 连接 必须要以root身份运行
-	sudo vpn-connect -d 				# 断开
+	sudo vpn-connect -c
+	sudo vpn-connect 
+	sudo vpn-connect -d
 
-## 开发环境相关
+## 开发环境相关:vim, pip3, jedi, git, curl, jedi-vim
 
-	sudo apt install vim 				# 安装vim
-	sudo apt-get update 				# 换源更新
-	sudo apt-get install python3-pip 	# 安装pip3
-	pip3 install jedi 					# 安装jedi
-	sudo apt install git				# 安装git
-	sudo apt install curl				# 安装curl
-	git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim		# 安装 Vundle
-	Plugin 'davidhalter/jedi-vim'		# .vimrc中添加
-	:PluginInstall 						# vim中执行，安装jedi-vim
+	sudo apt install vim
+	sudo apt-get update
+	sudo apt-get install python3-pip
+	pip3 install jedi
+	sudo apt install git
+	sudo apt install curl
+	git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+	Plugin 'davidhalter/jedi-vim'
+	:PluginInstall
 
-## DeepLearning 相关 
+## DeepLearning 相关:tensorflow(cpu only), keras, 测试
 
-	sudo pip3 install tensorflow		# 安装tensorflow
+	sudo pip3 install tensorflow
 
-	pip3 install matplotlib				# 安装 matplotlib
-	pip3 install keras					# 安装 keras
-	python3 mnist_mlp.py				# 测试 在下载时失败
+	pip3 install matplotlib	
+	pip3 install keras	
+	python3 mnist_mlp.py
 
 ### 解决方法
 
@@ -41,6 +41,6 @@
 	sudo apt install nodejs
 	sudo apt install npm
 	sudo npm -g install instant-markdown-d
-	Plugin 'suan/vim-instant-markdown'	# .vimrc中添加
-	:PluginInstall						# vim中执行
+	Plugin 'suan/vim-instant-markdown'	
+	:PluginInstall
 
