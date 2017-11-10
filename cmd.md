@@ -44,3 +44,7 @@
 	Plugin 'suan/vim-instant-markdown'	
 	:PluginInstall
 
+## 一堆python库
+	
+	sudo pip3 install mistune
+	
