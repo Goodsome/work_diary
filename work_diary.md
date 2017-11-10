@@ -4,7 +4,6 @@
 
 看论文
 
-
 ## 11/5
 
 看论文
@@ -17,7 +16,6 @@ python：列表生成式、生成器、迭代器
 
 keras：开发环境的配置、序贯模型（Sequential）
 
-
 ## 11/7
 
 python：高阶函数：map/reduce、filter、sorted
@@ -25,7 +23,6 @@ python：高阶函数：map/reduce、filter、sorted
 看论文：The Elements of Statistical Learning: Data Mining, Inference and Prediction
 
 Keras：数据集mnist、例子mnist_mlp.py
-
 
 ## 11/8
 
@@ -43,3 +40,6 @@ git: 添加远程库、克隆远程库、分支管理
 
 markdown：一种可使用普通文本编译器编译的标记语言
 
+CS231n: Lecture1 Introduction to CNN for Visual Recognition
+
+Deep Learning: Introduction 1-3
