@@ -43,3 +43,11 @@ markdown：一种可使用普通文本编译器编译的标记语言
 CS231n: Lecture1 Introduction to CNN for Visual Recognition
 
 Deep Learning: Introduction 1-3
+
+## 11/11
+
+计算机图形学作业：区间扫描线z缓冲器算法
+
+python-OpenGL: GUI学习 安装
+
+python: 导入obj文件，处理数据，面向对象编程

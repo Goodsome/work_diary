@@ -47,4 +47,9 @@
 ## 一堆python库
 	
 	sudo pip3 install mistune
+
+## PyOpenGL
+
+	sudo pip3 install PyOpenGL PyOpenGL_accelerate(缺少GULT）
+	sudo apt install py-opengl (安装freegult3解决）
 	
