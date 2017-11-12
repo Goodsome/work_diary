@@ -51,3 +51,7 @@ Deep Learning: Introduction 1-3
 python-OpenGL: GUI学习 安装
 
 python: 导入obj文件，处理数据，面向对象编程
+
+## 11/12
+
+CS231n: Assignment 1: K-Nearest Neighbor, Linear classifiers: SVM, Softmax
