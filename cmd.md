@@ -4,7 +4,7 @@
 
 	sudo dpkg -i iproute_3.12.0-2_all.deb
 	sudo dpkg -i xl2tpd_1.1.12-zju2_amd64.deb
-
+	sudo dpkg --purge xl2tpd	# 卸载
 ### 连接	
 
 	sudo vpn-connect -c
@@ -52,4 +52,9 @@
 
 	sudo pip3 install PyOpenGL PyOpenGL_accelerate(缺少GULT）
 	sudo apt install py-opengl (安装freegult3解决）
+
+## virtualenv
+
+	sudo apt virtualenv
+
 	
