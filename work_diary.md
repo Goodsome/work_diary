@@ -55,3 +55,8 @@ python: 导入obj文件，处理数据，面向对象编程
 ## 11/12
 
 CS231n: Assignment 1: K-Nearest Neighbor, Linear classifiers: SVM, Softmax
+
+## 11/13
+
+z缓冲器算法：数据处理
+
