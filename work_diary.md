@@ -60,3 +60,9 @@ CS231n: Assignment 1: K-Nearest Neighbor, Linear classifiers: SVM, Softmax
 
 z缓冲器算法：数据处理
 
+## 11/14
+
+z缓冲器算法：OpenGL绘制线框模型，线框消隐。
+学习OpenGL缓冲器用法，教程下载不了。爆炸。
+
+

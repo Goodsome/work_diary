@@ -56,5 +56,8 @@
 ## virtualenv
 
 	sudo apt virtualenv
+	virtualenv -p python3 venv	#创建名为venv的python3环境
+	source venv/bin/activate	#激活环境
+	deactivate					#退出
 
 	
