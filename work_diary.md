@@ -74,3 +74,12 @@ CS231n Assignment 1: KNN算法完成
 ## 11/17
 
 tensorflow:源码重新编译安装
+
+## 11/18
+
+Keras:学习例子
+CS231n Lecture3: loss function
+
+## 11/19
+
+飞行器动力学作业：神经网络在飞行器设计中的应用综述
