@@ -91,4 +91,10 @@ CS231n Lecture3: loss function
 论文：Yann LeCun,Yoshua Bengio & Geoffrey Hinton. Deep learning. nature14539
 
 CS231n Lecture3: Softmax Classifier
--Assignment 1: SVM loss function
+	Assignment 1: SVM loss function
+
+## 11/21
+
+CS231n Assignment 1: SVM classifier 完成
+
+
