@@ -97,4 +97,7 @@ CS231n Lecture3: Softmax Classifier
 
 CS231n Assignment 1: SVM classifier 完成
 
+## 11/25
+
+CS231n Assignment 1: softmax
 
