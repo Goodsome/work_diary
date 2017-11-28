@@ -105,3 +105,11 @@ CS231n Assignment 1: softmax
 CS231n Assignment 1: softmax complete; Lecture4: 2-layer neural network, backprop
 
 OpenGL
+
+## 11/27
+
+OpenGL: 帧缓存，GULT键盘操作
+
+## 11/28
+
+CS231n Assignment1: 2-layer network
