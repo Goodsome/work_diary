@@ -113,3 +113,11 @@ OpenGL: 帧缓存，GULT键盘操作
 ## 11/28
 
 CS231n Assignment1: 2-layer network
+
+## 12/1
+
+PyOpenGL: frambuffer
+
+## 12/2
+
+GAN: 生成对抗网络
