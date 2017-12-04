@@ -116,8 +116,12 @@ CS231n Assignment1: 2-layer network
 
 ## 12/1
 
-PyOpenGL: frambuffer
+PyOpenGL: framebuffer
 
 ## 12/2
 
 GAN: 生成对抗网络
+
+## 12/4
+
+PyOpenGL
