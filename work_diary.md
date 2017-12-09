@@ -125,3 +125,11 @@ GAN: 生成对抗网络
 ## 12/4
 
 PyOpenGL
+
+## 12/6
+
+PyOpenGL: 顶点数组对象、顶点缓冲对象、着色器。（太难了，一天下来没有得到什么结果。）
+
+## 12/8
+
+PyOpenGL: glTranslate(), glutReshapeFunc() 
