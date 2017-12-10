@@ -133,3 +133,11 @@ PyOpenGL: 顶点数组对象、顶点缓冲对象、着色器。（太难了，�
 ## 12/8
 
 PyOpenGL: glTranslate(), glutReshapeFunc() 
+
+## 12/9 
+
+PyOpenGL: 用VBO，VAO画三角形，代码跑完没错误，一直出不来图形
+
+## 12/10
+
+PyOpenGL: glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 0, ~~0~~None)	 就一个参数的改动，终于画出了三角形，前进了一大步
