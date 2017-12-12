@@ -141,3 +141,12 @@ PyOpenGL: 用VBO，VAO画三角形，代码跑完没错误，一直出不来图�
 ## 12/10
 
 PyOpenGL: glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 0, ~~0~~None)	 就一个参数的改动，终于画出了三角形，前进了一大步
+
+## 12/11
+
+PyOpenGL: 视角变化，添加光照，计算漫反射
+
+## 12/12
+
+PyOpenGL: 鼠标控制摄像机
+深度学习思路整理
