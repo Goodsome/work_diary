@@ -171,3 +171,10 @@ PyOpenGL: 计算数据，排序
 
 PyOpenGL: 画图，还未实现漫反射
 
+## 12/21 
+
+PyOpenGL: 作业完成
+
+## 12/24
+
+tensorflow: mnist手写数据集softmax,cnn
