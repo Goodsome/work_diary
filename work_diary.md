@@ -199,3 +199,15 @@ CS231n: assignment2, FullyConnetedNets
 # 17年下半年大致总结
 
 自己很多都不会，所以要学的有很多东西，学了python，OpenGL，跟着CS231n学神经网络底层的算法，tensorflow、keras这些的皮毛，还有vim，git这些，用的还不太熟练。自己虽然大部分都待在实验室学习了，但是学习效率还不够高，感觉自己还能够再努力一点。
+
+## 1/1
+
+CS231n: class6 Batch normalization
+
+## 1/2
+
+机器学习
+
+## 1/3
+
+CS231n : assignment2, FullyConnetedNets
