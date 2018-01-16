@@ -220,3 +220,17 @@ CS231n : assignment2, FullyConnetedNets
 
 课堂报告ppt
 CS231n assignment2
+
+## 1/12
+
+自然辩证法报告
+
+## 1/14
+
+做数独
+自然辩证法报告
+
+## 1/15
+
+想实现一个数独算法
+CS231n L7
