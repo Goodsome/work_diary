@@ -234,3 +234,6 @@ CS231n assignment2
 
 想实现一个数独算法
 CS231n L7
+
+## 1/16
+CS231n A2 FullyConnectedNets, Batchnormalization, Dropout
