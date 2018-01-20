@@ -236,4 +236,13 @@ CS231n assignment2
 CS231n L7
 
 ## 1/16
+
 CS231n A2 FullyConnectedNets, Batchnormalization, Dropout
+
+## 1/17
+
+CS231n A2 ConvolutionalNetworks
+
+## 1/19
+
+CS231n A2 CNN调参训练网络，训练时间比较长，需要大半天，最后分辨图片准确率64%
