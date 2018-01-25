@@ -246,3 +246,15 @@ CS231n A2 ConvolutionalNetworks
 ## 1/19
 
 CS231n A2 CNN调参训练网络，训练时间比较长，需要大半天，最后分辨图片准确率64%
+
+## 1/20
+
+高级操作系统
+
+## 1/20-23
+
+复习高级操作系统
+
+## 1/25
+
+CS231n L8: Tensorflow, PyTorh
