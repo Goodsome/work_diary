@@ -258,3 +258,4 @@ CS231n A2 CNN调参训练网络，训练时间比较长，需要大半天，最�
 ## 1/25
 
 CS231n L8: Tensorflow, PyTorh
+Coursera: Machine Learning Andrew Ng
