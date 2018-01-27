@@ -259,3 +259,12 @@ CS231n A2 CNN调参训练网络，训练时间比较长，需要大半天，最�
 
 CS231n L8: Tensorflow, PyTorh
 Coursera: Machine Learning Andrew Ng
+
+## 1/26
+
+CS231n L9: 几种流行的cnn网络结构
+Coursera: Machine Learning
+
+## 1/27
+
+高级操作系统报告
