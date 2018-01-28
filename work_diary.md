@@ -268,3 +268,7 @@ Coursera: Machine Learning
 ## 1/27
 
 高级操作系统报告
+
+## 1/28
+
+CS231n L10: RNN LSTM
