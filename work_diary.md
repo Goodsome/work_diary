@@ -276,3 +276,7 @@ CS231n L10: RNN LSTM
 ## 1/30
 
 ML: octave
+
+# 1/31
+
+Machine Learning Week2 完成
