@@ -272,3 +272,7 @@ Coursera: Machine Learning
 ## 1/28
 
 CS231n L10: RNN LSTM
+
+## 1/30
+
+ML: octave
