@@ -5,6 +5,7 @@
 看论文
 
 ## 11/5
+
 看论文
 
 python：切片、迭代
@@ -187,4 +188,95 @@ tensorflow: mnist手写数据集softmax,cnn
 
 大数据竞赛：数据拟合，线性回归
 
+## 12/30
 
+CS231n: class5 CNN
+
+## 12/31
+
+CS231n: assignment2, FullyConnetedNets
+
+# 17年下半年大致总结
+
+自己很多都不会，所以要学的有很多东西，学了python，OpenGL，跟着CS231n学神经网络底层的算法，tensorflow、keras这些的皮毛，还有vim，git这些，用的还不太熟练。自己虽然大部分都待在实验室学习了，但是学习效率还不够高，感觉自己还能够再努力一点。
+
+# 2018
+## 1/1
+
+CS231n: class6 Batch normalization
+
+## 1/2
+
+机器学习
+
+## 1/3
+
+CS231n : assignment2, FullyConnetedNets
+
+## 1/9
+这段时间忘记记了，又松散了。之前主要在调机器学习的线性回归的程序，但是结果还是不好。然后整理了AlphaGo zero的训练框架，框架还是比较简单，但是门槛在计算能力上。临近期末事情比较多，一件一件把它做完吧。
+
+## 1/10
+
+课堂报告ppt
+CS231n assignment2
+
+## 1/12
+
+自然辩证法报告
+
+## 1/14
+
+做数独
+自然辩证法报告
+
+## 1/15
+
+想实现一个数独算法
+CS231n L7
+
+## 1/16
+
+CS231n A2 FullyConnectedNets, Batchnormalization, Dropout
+
+## 1/17
+
+CS231n A2 ConvolutionalNetworks
+
+## 1/19
+
+CS231n A2 CNN调参训练网络，训练时间比较长，需要大半天，最后分辨图片准确率64%
+
+## 1/20
+
+高级操作系统
+
+## 1/20-23
+
+复习高级操作系统
+
+## 1/25
+
+CS231n L8: Tensorflow, PyTorh
+Coursera: Machine Learning Andrew Ng
+
+## 1/26
+
+CS231n L9: 几种流行的cnn网络结构
+Coursera: Machine Learning
+
+## 1/27
+
+高级操作系统报告
+
+## 1/28
+
+CS231n L10: RNN LSTM
+
+## 1/30
+
+ML: octave
+
+# 1/31
+
+Machine Learning Week2 完成
