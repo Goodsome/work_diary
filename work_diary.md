@@ -286,3 +286,14 @@ Machine Learning Week2 完成
 安装ubuntu，由于ubuntu默认的显卡驱动nouveau与N卡冲突，需要通过一下步骤安装：
 1. 添加nomodest，禁用显卡驱动，进入安装
 2. 添加nomodest进入系统 
+3. 禁用nouveau，禁用lightdm，安装NVIDIA显卡驱动
+
+# 2/3
+
+安装PyCharm。
+问题1：网速，下载几秒就会断
+问题2：不能识别移动硬盘
+
+# 2/4
+
+安装CUDA8.0, CUDNN7.0, tensorflow-GPU
