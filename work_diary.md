@@ -280,3 +280,9 @@ ML: octave
 # 1/31
 
 Machine Learning Week2 完成
+
+# 2/1
+
+安装ubuntu，由于ubuntu默认的显卡驱动nouveau与N卡冲突，需要通过一下步骤安装：
+1. 添加nomodest，禁用显卡驱动，进入安装
+2. 添加nomodest进入系统 
