@@ -306,6 +306,6 @@ tesorflow更新到1.5 不支持CUDA8.0,所以重新安装CUDA9.0，CUDNN7.0
 
 # 2/6
 
-网络问题：插上其他同学的网线，下载就正常了。可能是转换器或者网线的问题，然而我又插回自己的网线，又能正常下载了。很迷......
-
-文献得看起来，先看一篇综述性文章：Deep learning --Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Nature14539
+网络问题：插上其他同学的网线，下载就正常了。可能是转换器或者网线的问题，然而我又插回自己的网线，又能正常下载了。很迷......  
+文献得看起来，先看一篇综述性文章：Deep learning --Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Nature14539  
+tensorflow: mnist_cnn
