@@ -292,8 +292,20 @@ Machine Learning Week2 完成
 
 安装PyCharm。
 问题1：网速，下载几秒就会断
-问题2：不能识别移动硬盘
+问题2：不能识别移动硬盘------可能是移动硬盘坏了--！
 
 # 2/4
 
-安装CUDA8.0, CUDNN7.0, tensorflow-GPU
+安装CUDA8.0, CUDNN6.0, tensorflow-GPU
+
+# 2/5
+
+tesorflow更新到1.5 不支持CUDA8.0,所以重新安装CUDA9.0，CUDNN7.0
+
+想跑一下之前的CS231n程序，但是网络一直有问题，可以正常上网，但是无法稳定下载，包括浏览器，wget，pip
+
+# 2/6
+
+网络问题：插上其他同学的网线，下载就正常了。可能是转换器或者网线的问题，然而我又插回自己的网线，又能正常下载了。很迷......
+
+文献得看起来，先看一篇综述性文章：Deep learning --Yann LeCun, Yoshua Bengio, Geoffrey Hinton. Nature14539
