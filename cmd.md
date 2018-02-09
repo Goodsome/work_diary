@@ -61,3 +61,8 @@
 	deactivate					#退出
 
 	
+## apt
+
+    apt-cache madison           # 查看版本
+    apt-cache search            # 搜索
+    apt list --upgradable       # 可更新内容
