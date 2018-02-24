@@ -319,3 +319,7 @@ tensorflow: mnist_cnn
 paper: Deep learning
 Machine Learning Week3
 Matlab
+
+# 2/24
+
+Machine Learning: Logistic regression model
