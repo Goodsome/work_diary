@@ -395,3 +395,15 @@ tensorflow：ResNet
 # 4/24
 
 tensorflow：搭建ResNet
+
+# 4/26
+
+阅读文献：W. E. Faller and S. J. Schreck, “Neural networks: Applications and opportunities in aeronautics,” Prog. Aerosp. Sci., vol. 32, no. 5, pp. 433–456, Oct. 1996.
+
+# 4/28
+
+搭建围棋的神经网络，输入历史16步棋和局面state，输出落子概率p，胜率评估v
+
+# 4/29
+
+围棋的蒙特卡罗树搜索，在实现围棋规则方面有困难：如何判断气，提子这过程;如何判断最终局面的胜者。
