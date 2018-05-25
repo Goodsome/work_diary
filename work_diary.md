@@ -445,4 +445,4 @@ ubuntu系统18.04
 
 # 5/25
 
-OpenFoam学习
+OpenFoam学习,求解器，paraview
