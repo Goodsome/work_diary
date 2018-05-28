@@ -446,3 +446,12 @@ ubuntu系统18.04
 # 5/25
 
 OpenFoam学习,求解器，paraview
+
+# 5/26
+
+OpenFoam计算求解Onera M6在0.84马赫，3.06度攻角下的压力系数分布
+
+# 5/27
+
+OpenFoam计算Onera M6
+
