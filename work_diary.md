@@ -455,3 +455,6 @@ OpenFoam计算求解Onera M6在0.84马赫，3.06度攻角下的压力系数分�
 
 OpenFoam计算Onera M6
 
+# 6/5
+
+终于完成Onera M6翼型的计算。采用kEpsilon湍流模型，关键一步是把k的值取为100,epsilon的值取为2500。
