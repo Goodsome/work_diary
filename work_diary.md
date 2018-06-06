@@ -458,3 +458,7 @@ OpenFoam计算Onera M6
 # 6/5
 
 终于完成Onera M6翼型的计算。采用kEpsilon湍流模型，关键一步是把k的值取为100,epsilon的值取为2500。
+
+# 6/6
+
+kEpsilon模型计算结果不是很好，改用komegaSST湍流模型，虽然计算无法收敛，但是得出的结果更接近实验数据。
