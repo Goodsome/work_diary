@@ -489,4 +489,4 @@ komegaSST湍流模型计算得出结果，与论文中的数据接近。
 
 # 6/26
 
-学习OpenFoam网格：Mesh description
+学习OpenFoam网格：Mesh description; blockMesh
