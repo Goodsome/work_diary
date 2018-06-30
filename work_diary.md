@@ -490,3 +490,11 @@ komegaSST湍流模型计算得出结果，与论文中的数据接近。
 # 6/26
 
 学习OpenFoam网格：Mesh description; blockMesh
+
+# 6/29
+
+写blockMeshDict文件，翼型的网格可以画出但是加上大气网格产生问题。
+
+# 6/30
+
+应把翼型上的点投射到外围立方体网格，这样应该可行。
