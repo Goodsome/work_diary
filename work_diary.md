@@ -508,3 +508,11 @@ komegaSST湍流模型计算得出结果，与论文中的数据接近。
 # 7/10
 
 手贱想更新下tensorflow，CUDA，结果折腾了很久终于搞定。
+
+# 7/11
+
+paper: ImageNet Classification with Deep Convolutional Neural Networks, Alex Krizhevsky, Ilya Sutskever, G.E.Hinton,2012. 提出深度卷积神经网络，大幅领先于其他机器学习方法，取得ILSVRC-2012第一名。此后深度卷积神经网络开始大量运用起来。此后深度卷积神经网络开始大量运用起来
+
+# 7/17
+
+细读AlexNet论文，写ppt报告。
