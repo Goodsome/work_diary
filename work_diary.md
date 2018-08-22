@@ -516,3 +516,11 @@ paper: ImageNet Classification with Deep Convolutional Neural Networks, Alex Kri
 # 7/17
 
 细读AlexNet论文，写ppt报告。
+
+# 8/20
+
+目标：读取openfoam计算后到压力分布。现在可以得到压力分布的曲线和数值。
+
+存在的问题：自己画的翼型与例子的网格划分不同，得到的压力数据的点并不相同。
+
+想法：设置固定的点，该点的压力由插值计算得出。
