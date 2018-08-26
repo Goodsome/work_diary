@@ -524,3 +524,9 @@ paper: ImageNet Classification with Deep Convolutional Neural Networks, Alex Kri
 存在的问题：自己画的翼型与例子的网格划分不同，得到的压力数据的点并不相同。
 
 想法：设置固定的点，该点的压力由插值计算得出。
+
+# 8/26
+
+做翼型设计的ppt，翼型重建，凸点设计
+
+问题：做ppt的时候如何把书里的图片加进来。
