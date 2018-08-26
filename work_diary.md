@@ -530,3 +530,6 @@ paper: ImageNet Classification with Deep Convolutional Neural Networks, Alex Kri
 做翼型设计的ppt，翼型重建，凸点设计
 
 问题：做ppt的时候如何把书里的图片加进来。
+
+想法：我认为直接拍照插入ppt中实属下策；中策为网上寻找电子版的图片，不过比较难找；最好的应该是自己模拟条件用类似软件画出来。但是比较花时间，而且对于不熟悉的软件还有学习成本。
+
