@@ -533,3 +533,8 @@ paper: ImageNet Classification with Deep Convolutional Neural Networks, Alex Kri
 
 想法：我认为直接拍照插入ppt中实属下策；中策为网上寻找电子版的图片，不过比较难找；最好的应该是自己模拟条件用类似软件画出来。但是比较花时间，而且对于不熟悉的软件还有学习成本。
 
+# 8/27
+
+翼型设计ppt，通用飞机翼型截面优化设计；插值计算NACA0012的压力分布，求候选翼型压力分布与之的欧式距离。神经网络的价值函数V=exp(-distance)。
+
+问题：paraView的脚本存在问题。
