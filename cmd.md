@@ -5,6 +5,7 @@
 	sudo dpkg -i iproute_3.12.0-2_all.deb
 	sudo dpkg -i xl2tpd_1.1.12-zju2_amd64.deb
 	sudo dpkg --purge xl2tpd	# 卸载
+    echo "xl2tpd hold" | sudo dpkg --set-selections # 禁用更新
 ### 连接	
 
 	sudo vpn-connect -c
